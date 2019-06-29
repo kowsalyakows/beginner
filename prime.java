@@ -16,7 +16,7 @@ public class Main
 	           {
 	           c++;
 	           }
-	           System.out.println(i);
+	           //System.out.println(i);
 	           }
 	        }
 	     if(flag==0)
